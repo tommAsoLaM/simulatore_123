@@ -46,4 +46,4 @@ pip install matplotlib numpy pandas
 
 ---
 
-Feel free to modify the simulation parameters (number of games, deck size, etc.) to
+Feel free to modify the simulation parameters (number of games, deck size, etc.)
