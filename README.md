@@ -1,3 +1,4 @@
+
 # 1,2,3 Game Simulator
 
 This project simulates the card game **1,2,3** using a standard Neapolitan deck of 40 cards. The simulator is designed to gather statistical data about the game, such as the distribution of attempts needed to win and the probability of winning.
